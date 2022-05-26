@@ -1,0 +1,1923 @@
+TRACE::2021-05-05.03:17:54::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:54::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:54::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-05-05.03:17:57::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2021-05-05.03:17:57::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2021-05-05.03:17:57::SCWPlatform::Boot application domains not present, creating them
+TRACE::2021-05-05.03:17:57::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2021-05-05.03:17:57::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2021-05-05.03:17:57::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:57::SCWDomain::checking for install qemu data   : 
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.03:17:57::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::mss does not exists at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::Creating sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::Adding the swdes entry, created swdb C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::Writing mss at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:57::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:17:57::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2021-05-05.03:17:57::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2021-05-05.03:17:57::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:17:57::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Running validate of swdbs.
+KEYINFO::2021-05-05.03:17:59::SCWMssOS::Could not open the swdb for C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+KEYINFO::2021-05-05.03:17:59::SCWMssOS::Could not open the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss is not found
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-05-05.03:17:59::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:17:59::SCWMssOS::Writing the mss file completed C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2021-05-05.03:17:59::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2021-05-05.03:17:59::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-05-05.03:17:59::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2021-05-05.03:17:59::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2021-05-05.03:17:59::SCWSystem::Not a boot domain 
+LOG::2021-05-05.03:17:59::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:17:59::SCWDomain::Generating domain artifcats
+TRACE::2021-05-05.03:17:59::SCWMssOS::Generating standalone artifcats
+TRACE::2021-05-05.03:17:59::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:17:59::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-05-05.03:17:59::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-05-05.03:17:59::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2021-05-05.03:17:59::SCWMssOS::skipping the bsp build ... 
+TRACE::2021-05-05.03:17:59::SCWMssOS::Copying to export directory.
+TRACE::2021-05-05.03:17:59::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-05-05.03:17:59::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-05-05.03:17:59::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2021-05-05.03:17:59::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2021-05-05.03:17:59::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2021-05-05.03:17:59::SCWPlatform::Started preparing the platform 
+TRACE::2021-05-05.03:17:59::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2021-05-05.03:17:59::SCWSystem::dir created 
+TRACE::2021-05-05.03:17:59::SCWSystem::Writing the bif 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Started writing the spfm file 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Completed generating the platform
+TRACE::2021-05-05.03:17:59::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-05-05.03:17:59::SCWPlatform::updated the xpfm file.
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2021-05-05.03:17:59::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2021-05-05.03:17:59::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-05-05.03:17:59::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2021-05-05.03:17:59::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:17:59::SCWDomain::Generating domain artifcats
+TRACE::2021-05-05.03:17:59::SCWMssOS::Generating standalone artifcats
+TRACE::2021-05-05.03:17:59::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:17:59::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-05-05.03:17:59::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-05-05.03:17:59::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2021-05-05.03:17:59::SCWMssOS::skipping the bsp build ... 
+TRACE::2021-05-05.03:17:59::SCWMssOS::Copying to export directory.
+TRACE::2021-05-05.03:17:59::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-05-05.03:17:59::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-05-05.03:17:59::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2021-05-05.03:17:59::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2021-05-05.03:17:59::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2021-05-05.03:17:59::SCWPlatform::Started preparing the platform 
+TRACE::2021-05-05.03:17:59::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2021-05-05.03:17:59::SCWSystem::dir created 
+TRACE::2021-05-05.03:17:59::SCWSystem::Writing the bif 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Started writing the spfm file 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-05-05.03:17:59::SCWPlatform::Completed generating the platform
+TRACE::2021-05-05.03:17:59::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:17:59::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:17:59::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:17:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:17:59::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:17:59::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:17:59::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-05-05.03:17:59::SCWPlatform::updated the xpfm file.
+LOG::2021-05-05.03:19:28::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2021-05-05.03:19:28::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-05-05.03:19:28::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2021-05-05.03:19:28::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2021-05-05.03:19:28::SCWSystem::Not a boot domain 
+LOG::2021-05-05.03:19:28::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:19:28::SCWDomain::Generating domain artifcats
+TRACE::2021-05-05.03:19:28::SCWMssOS::Generating standalone artifcats
+TRACE::2021-05-05.03:19:28::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-05-05.03:19:28::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:19:28::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:19:28::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:19:28::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:19:28::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:19:28::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:19:28::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-05-05.03:19:28::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-05-05.03:19:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:19:28::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:19:28::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:19:28::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:19:28::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:19:28::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-05-05.03:19:28::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-05-05.03:19:28::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2021-05-05.03:19:28::SCWMssOS::doing bsp build ... 
+TRACE::2021-05-05.03:19:28::SCWMssOS::System Command Ran  C: & cd  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2021-05-05.03:19:28::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::"Running Make include in microblaze_0/libsrc/AesCryptoCore_v1_0/src"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::make -C microblaze_0/libsrc/AesCryptoCore_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2021-05-05.03:19:28::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+TRACE::2021-05-05.03:19:28::SCWMssOS::"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2021-05-05.03:19:28::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2021-05-05.03:19:28::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2021-05-05.03:19:28::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2021-05-05.03:19:28::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2021-05-05.03:19:28::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2021-05-05.03:19:28::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2021-05-05.03:19:28::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2021-05-05.03:19:28::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2021-05-05.03:19:28::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2021-05-05.03:19:29::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2021-05-05.03:19:29::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2021-05-05.03:19:29::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2021-05-05.03:19:29::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::"Running Make libs in microblaze_0/libsrc/AesCryptoCore_v1_0/src"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::make -C microblaze_0/libsrc/AesCryptoCore_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2021-05-05.03:19:29::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2021-05-05.03:19:29::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2021-05-05.03:19:29::SCWMssOS::"Compiling AesCryptoCore..."
+
+ERROR::2021-05-05.03:19:30::SCWMssOS::Failed to build  the bsp sources for domain - standalone_microblaze_0
+ERROR::2021-05-05.03:19:30::SCWSystem::Error in Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Clearing the existing platform
+TRACE::2021-05-05.03:24:35::SCWSystem::Clearing the existing sysconfig
+TRACE::2021-05-05.03:24:35::SCWMssOS::Removing the swdes entry for  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWSystem::Clearing the domains completed.
+TRACE::2021-05-05.03:24:35::SCWPlatform::Clearing the opened hw db.
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform location is C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Removing the HwDB with name C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-05-05.03:24:35::SCWPlatform::Opened new HwDB with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWReader::Active system found as  design_1_wrapper
+TRACE::2021-05-05.03:24:35::SCWReader::Handling sysconfig design_1_wrapper
+TRACE::2021-05-05.03:24:35::SCWDomain::checking for install qemu data   : 
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:35::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.03:24:35::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:24:35::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:24:35::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:24:35::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:24:35::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:24:35::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-05-05.03:24:35::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:35::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:35::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:35::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:35::SCWReader::No isolation master present  
+TRACE::2021-05-05.03:24:36::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:36::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:36::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:36::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:36::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::In reload Mss file.
+TRACE::2021-05-05.03:24:36::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:36::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:36::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:36::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+KEYINFO::2021-05-05.03:24:36::SCWMssOS::Could not open the swdb for system
+KEYINFO::2021-05-05.03:24:36::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2021-05-05.03:24:36::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-05-05.03:24:36::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:24:36::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:24:36::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:24:36::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:24:36::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:24:36::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:36::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:36::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:36::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:36::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:36::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:36::SCWMssOS::Removing the swdes entry for  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:40::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:40::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:40::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:40::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:40::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:40::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:40::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:40::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:40::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.03:24:40::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:40::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:40::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:40::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:24:40::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:24:40::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:52::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:52::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:52::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:52::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:52::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:52::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:52::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:52::SCWMssOS::Adding Library:  libmetal:2.1
+TRACE::2021-05-05.03:24:52::SCWMssOS::Added Library:  libmetal
+TRACE::2021-05-05.03:24:52::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:52::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:52::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:52::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:52::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:52::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:52::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:52::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:53::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:53::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:53::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:53::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:53::SCWMssOS::Adding Library:  xilskey:7.0
+TRACE::2021-05-05.03:24:53::SCWMssOS::Added Library:  xilskey
+TRACE::2021-05-05.03:24:53::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:53::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:53::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:53::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:53::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:54::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:54::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWMssOS::Adding Library:  xilpm:3.2
+TRACE::2021-05-05.03:24:54::SCWMssOS::Added Library:  xilpm
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:54::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:54::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:54::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:54::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWMssOS::Adding Library:  xilflash:4.8
+TRACE::2021-05-05.03:24:54::SCWMssOS::Added Library:  xilflash
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:54::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:54::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:54::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:54::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:54::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:55::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:55::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWMssOS::Adding Library:  xilffs:4.4
+TRACE::2021-05-05.03:24:55::SCWMssOS::Added Library:  xilffs
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:55::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:55::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:55::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:55::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWMssOS::Adding Library:  lwip211:1.3
+TRACE::2021-05-05.03:24:55::SCWMssOS::Added Library:  lwip211
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:55::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:55::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:24:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:24:57::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["libmetal:2.1", "xilskey:7.0", "xilpm:3.2", "xilflash:4.8", "xilffs:4.4", "lwip211:1.3"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-05-05.03:24:57::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:24:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:24:57::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Removing the swdes entry for  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::In reload Mss file.
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.03:24:57::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:24:57::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:24:57::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS:: library already available in sw design:  libmetal:2.1
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS:: library already available in sw design:  xilskey:7.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS:: library already available in sw design:  xilpm:3.2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS:: library already available in sw design:  xilflash:4.8
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS:: library already available in sw design:  lwip211:1.3
+TRACE::2021-05-05.03:24:57::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:24:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:24:57::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:24:57::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Removing the swdes entry for  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:24:57::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:24:57::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:24:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:24:57::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.03:24:57::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:24:57::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:24:57::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:24:57::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:24:57::SCWMssOS::Forcing BSP Sources regeneration.
+ERROR::2021-05-05.03:24:59::SCWMssOS::Failed to generate the bsp sources for domain.standalone_microblaze_0
+
+Details: ERROR: No Ethernet MAC cores are addressable from processor microblaze_0.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_ethernet | axi_ethernet_buffer | axi_ethernetlite | ps7_ethernet | psu_ethernet | psv_ethernet ) core  with its interrupt pin connected to the interrupt controller.
+
+ERROR: [Hsi 55-1545] Problem running tcl command ::sw_lwip211_v1_3::lwip_drc : ERROR: No Ethernet MAC cores are addressable from processor microblaze_0.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_ethernet | axi_ethernet_buffer | axi_ethernetlite | ps7_ethernet | psu_ethernet | psv_ethernet ) core  with its interrupt pin connected to the interrupt controller.
+
+    while executing
+"error "ERROR: No Ethernet MAC cores are addressable from processor $cpuname.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_et..."
+    (procedure "::sw_lwip211_v1_3::lwip_drc" line 67)
+    invoked from within
+"::sw_lwip211_v1_3::lwip_drc lwip211"
+
+ERROR: [Hsi 55-1440] Error(s) while running DRCs.
+
+LOG::2021-05-05.03:34:55::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2021-05-05.03:34:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-05-05.03:34:55::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2021-05-05.03:34:55::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2021-05-05.03:34:55::SCWSystem::Not a boot domain 
+LOG::2021-05-05.03:34:55::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:34:55::SCWDomain::Generating domain artifcats
+TRACE::2021-05-05.03:34:55::SCWMssOS::Generating standalone artifcats
+TRACE::2021-05-05.03:34:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-05-05.03:34:55::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:34:55::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:34:55::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:34:55::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:34:55::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:34:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:34:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:34:55::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:34:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:34:55::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:34:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+KEYINFO::2021-05-05.03:34:55::SCWMssOS::Could not open the swdb for system
+KEYINFO::2021-05-05.03:34:55::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2021-05-05.03:34:55::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-05-05.03:34:55::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:34:55::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:34:55::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:34:55::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:34:55::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:34:55::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:34:55::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:34:55::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:34:55::SCWMssOS::bsp generated is stale removing and regenerating. 
+ERROR::2021-05-05.03:34:56::SCWMssOS::Failed to generate the bsp sources for domain.standalone_microblaze_0
+
+Details: ERROR: No Ethernet MAC cores are addressable from processor microblaze_0.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_ethernet | axi_ethernet_buffer | axi_ethernetlite | ps7_ethernet | psu_ethernet | psv_ethernet ) core  with its interrupt pin connected to the interrupt controller.
+
+ERROR: [Hsi 55-1545] Problem running tcl command ::sw_lwip211_v1_3::lwip_drc : ERROR: No Ethernet MAC cores are addressable from processor microblaze_0.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_ethernet | axi_ethernet_buffer | axi_ethernetlite | ps7_ethernet | psu_ethernet | psv_ethernet ) core  with its interrupt pin connected to the interrupt controller.
+
+    while executing
+"error "ERROR: No Ethernet MAC cores are addressable from processor $cpuname.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_et..."
+    (procedure "::sw_lwip211_v1_3::lwip_drc" line 67)
+    invoked from within
+"::sw_lwip211_v1_3::lwip_drc lwip211"
+
+ERROR: [Hsi 55-1440] Error(s) while running DRCs.
+
+ERROR::2021-05-05.03:34:56::SCWSystem::Error in Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:38:44::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:38:44::SCWMssOS::Running validate of swdbs.
+KEYINFO::2021-05-05.03:38:44::SCWMssOS::Could not open the swdb for system
+KEYINFO::2021-05-05.03:38:44::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-05-05.03:38:44::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:38:44::SCWMssOS::Writing the mss file completed C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>/resources/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"21e582af8415f18aab2a75c92a987978",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["libmetal:2.1", "xilskey:7.0", "xilpm:3.2", "xilflash:4.8", "xilffs:4.4", "lwip211:1.3"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-05-05.03:38:44::SCWPlatform::Clearing the existing platform
+TRACE::2021-05-05.03:38:44::SCWSystem::Clearing the existing sysconfig
+TRACE::2021-05-05.03:38:44::SCWMssOS::Removing the swdes entry for  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWSystem::Clearing the domains completed.
+TRACE::2021-05-05.03:38:44::SCWPlatform::Clearing the opened hw db.
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform location is C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Removing the HwDB with name C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened new HwDB with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWReader::Active system found as  design_1_wrapper
+TRACE::2021-05-05.03:38:44::SCWReader::Handling sysconfig design_1_wrapper
+TRACE::2021-05-05.03:38:44::SCWDomain::checking for install qemu data   : 
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.03:38:44::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.03:38:44::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.03:38:44::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS:: library already available in sw design:  libmetal:2.1
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS:: library already available in sw design:  xilskey:7.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS:: library already available in sw design:  xilpm:3.2
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS:: library already available in sw design:  xilflash:4.8
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS:: library already available in sw design:  lwip211:1.3
+TRACE::2021-05-05.03:38:44::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.03:38:44::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.03:38:44::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.03:38:44::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-05-05.03:38:44::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:38:44::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:38:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:38:44::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:38:44::SCWReader::No isolation master present  
+LOG::2021-05-05.03:40:26::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2021-05-05.03:40:26::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-05-05.03:40:26::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2021-05-05.03:40:26::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2021-05-05.03:40:26::SCWSystem::Not a boot domain 
+LOG::2021-05-05.03:40:26::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.03:40:26::SCWDomain::Generating domain artifcats
+TRACE::2021-05-05.03:40:26::SCWMssOS::Generating standalone artifcats
+TRACE::2021-05-05.03:40:26::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-05-05.03:40:26::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:40:26::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:40:26::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:40:26::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.03:40:26::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.03:40:26::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.03:40:26::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_3
+TRACE::2021-05-05.03:40:26::SCWPlatform::Opened existing hwdb design_1_wrapper_3
+TRACE::2021-05-05.03:40:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.03:40:26::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:40:26::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.03:40:26::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:40:26::SCWMssOS::Completed writing the mss file at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2021-05-05.03:40:26::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.03:40:26::SCWMssOS::bsp generated is stale removing and regenerating. 
+ERROR::2021-05-05.03:40:28::SCWMssOS::Failed to generate the bsp sources for domain.standalone_microblaze_0
+
+Details: ERROR: No Ethernet MAC cores are addressable from processor microblaze_0.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_ethernet | axi_ethernet_buffer | axi_ethernetlite | ps7_ethernet | psu_ethernet | psv_ethernet ) core  with its interrupt pin connected to the interrupt controller.
+
+ERROR: [Hsi 55-1545] Problem running tcl command ::sw_lwip211_v1_3::lwip_drc : ERROR: No Ethernet MAC cores are addressable from processor microblaze_0.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_ethernet | axi_ethernet_buffer | axi_ethernetlite | ps7_ethernet | psu_ethernet | psv_ethernet ) core  with its interrupt pin connected to the interrupt controller.
+
+    while executing
+"error "ERROR: No Ethernet MAC cores are addressable from processor $cpuname.  lwIP requires atleast one EMAC (xps_ethernetlite | xps_ll_temac | axi_et..."
+    (procedure "::sw_lwip211_v1_3::lwip_drc" line 67)
+    invoked from within
+"::sw_lwip211_v1_3::lwip_drc lwip211"
+
+ERROR: [Hsi 55-1440] Error(s) while running DRCs.
+
+ERROR::2021-05-05.03:40:28::SCWSystem::Error in Processing the domain standalone_microblaze_0
+TRACE::2021-05-05.13:28:30::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:30::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:30::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened new HwDB with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWReader::Active system found as  design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWReader::Handling sysconfig design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWDomain::checking for install qemu data   : 
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-05-05.13:28:33::SCWMssOS::No sw design opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::mss exists loading the mss file  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::Opened the sw design from mss  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::Adding the swdes entry C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2021-05-05.13:28:33::SCWMssOS::updating the scw layer about changes
+TRACE::2021-05-05.13:28:33::SCWMssOS::Opened the sw design.  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS:: library already available in sw design:  libmetal:2.1
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS:: library already available in sw design:  xilskey:7.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS:: library already available in sw design:  xilpm:3.2
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS:: library already available in sw design:  xilflash:4.8
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS:: library already available in sw design:  lwip211:1.3
+TRACE::2021-05-05.13:28:33::SCWMssOS::Saving the mss changes C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-05-05.13:28:33::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-05-05.13:28:33::SCWMssOS::Commit changes completed.
+TRACE::2021-05-05.13:28:33::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-05-05.13:28:33::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to open the hw design at C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA given C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA absoulate path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform::DSA directory C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Platform Path C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2021-05-05.13:28:33::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2021-05-05.13:28:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2021-05-05.13:28:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-05-05.13:28:33::SCWMssOS::Checking the sw design at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWMssOS::DEBUG:  swdes dump  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2021-05-05.13:28:33::SCWMssOS::Sw design exists and opened at  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2021-05-05.13:28:33::SCWReader::No isolation master present  
+TRACE::2021-05-05.13:28:33::SCWMssOS::cleaning the bsp 
+TRACE::2021-05-05.13:28:33::SCWMssOS::System Command Ran  C: & cd  C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp & make clean 
+ERROR::2021-05-05.13:28:33::SCWSystem::Error in Processing the domain standalone_microblaze_0

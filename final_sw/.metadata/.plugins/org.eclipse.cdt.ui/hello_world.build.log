@@ -1,0 +1,7 @@
+13:28:33 **** Clean-only build of configuration Debug for project hello_world ****
+make clean 
+rm -rf  ./src/aes_crypto_drv.o ./src/helloworld.o ./src/platform.o  ./src/aes_crypto_drv.d ./src/helloworld.d ./src/platform.d  hello_world.elf.size  hello_world.elf
+' '
+
+13:28:33 Build Finished (took 196ms)
+

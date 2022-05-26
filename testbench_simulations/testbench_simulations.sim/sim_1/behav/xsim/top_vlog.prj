@@ -1,0 +1,41 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../testbench_simulations.srcs/sim_1/imports/new" --include "../../../../testbench_simulations.srcs/sim_1/imports/test2/test2.srcs/sources_1/imports/new/utils" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/aes_types.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/x_time_square.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/x_times.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_s_box.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_sub_byte.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_inv_2.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_scl_2.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_scl_4.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_inv_8.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_mul_scl_2.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_inv_4.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/mux2_1.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/select_not_8.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_sq_scl_2.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/aes_mix_columns_mul.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_mix_columns.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_mul_2.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/gf_s_box/gf_mul_4.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_key_schedule.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_shift_rows.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/aes_round_constants.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_sbox128.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/utils/aes_function_g.v" \
+"../../../../testbench_simulations.srcs/sources_1/imports/new/aes_top.v" \
+
+sv xil_defaultlib  --include "../../../../testbench_simulations.srcs/sim_1/imports/new" --include "../../../../testbench_simulations.srcs/sim_1/imports/test2/test2.srcs/sources_1/imports/new/utils" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/ve_AES_interface.sv" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/ve_AES_top_mix_column.sv" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/ve_AES_env.sv" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/ve_AES_item.sv" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/test_program.sv" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/ve_AES_class_KeySchedule.sv" \
+"../../../../testbench_simulations.srcs/sim_1/imports/new/ve_AES_class_TopLevel.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

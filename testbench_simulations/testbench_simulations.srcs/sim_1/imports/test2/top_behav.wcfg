@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_ve_AES_interface_sv " />
+            <top_module name="glbl" />
+            <top_module name="top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="22962240fs"></ZoomStartTime>
+      <ZoomEndTime time="61412241fs"></ZoomEndTime>
+      <Cursor1Time time="33762000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="203"></NameColumnWidth>
+      <ValueColumnWidth column_width="230"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="37" />
+   <wvobject fp_name="/top/KScheduleDutTop/key_in" type="array">
+      <obj_property name="ElementShortName">key_in[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key_in[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/key_out" type="array">
+      <obj_property name="ElementShortName">key_out[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key_out[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/encrypt" type="logic">
+      <obj_property name="ElementShortName">encrypt</obj_property>
+      <obj_property name="ObjectShortName">encrypt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/round_index" type="array">
+      <obj_property name="ElementShortName">round_index[3:0]</obj_property>
+      <obj_property name="ObjectShortName">round_index[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W0" type="array">
+      <obj_property name="ElementShortName">W0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W1" type="array">
+      <obj_property name="ElementShortName">W1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W2" type="array">
+      <obj_property name="ElementShortName">W2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W3" type="array">
+      <obj_property name="ElementShortName">W3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W0_new" type="array">
+      <obj_property name="ElementShortName">W0_new[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W0_new[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W1_new" type="array">
+      <obj_property name="ElementShortName">W1_new[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W1_new[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W2_new" type="array">
+      <obj_property name="ElementShortName">W2_new[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W2_new[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/W3_new" type="array">
+      <obj_property name="ElementShortName">W3_new[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W3_new[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/KScheduleDutTop/g_out" type="array">
+      <obj_property name="ElementShortName">g_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">g_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/clock_divider" type="array">
+      <obj_property name="ElementShortName">clock_divider[1:0]</obj_property>
+      <obj_property name="ObjectShortName">clock_divider[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/text_in" type="array">
+      <obj_property name="ElementShortName">text_in[127:0]</obj_property>
+      <obj_property name="ObjectShortName">text_in[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/key" type="array">
+      <obj_property name="ElementShortName">key[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/encrypt" type="logic">
+      <obj_property name="ElementShortName">encrypt</obj_property>
+      <obj_property name="ObjectShortName">encrypt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/text_out" type="array">
+      <obj_property name="ElementShortName">text_out[127:0]</obj_property>
+      <obj_property name="ObjectShortName">text_out[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/selection" type="array">
+      <obj_property name="ElementShortName">selection[1:0]</obj_property>
+      <obj_property name="ObjectShortName">selection[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/clock_divider" type="array">
+      <obj_property name="ElementShortName">clock_divider[1:0]</obj_property>
+      <obj_property name="ObjectShortName">clock_divider[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/pipeline_valid" type="logic">
+      <obj_property name="ElementShortName">pipeline_valid</obj_property>
+      <obj_property name="ObjectShortName">pipeline_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/reg_inv_mix_col_lvl" type="array">
+      <obj_property name="ElementShortName">reg_inv_mix_col_lvl[127:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_inv_mix_col_lvl[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/round_key" type="array">
+      <obj_property name="ElementShortName">round_key[127:0]</obj_property>
+      <obj_property name="ObjectShortName">round_key[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/round_key_out" type="array">
+      <obj_property name="ElementShortName">round_key_out[127:0]</obj_property>
+      <obj_property name="ObjectShortName">round_key_out[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/SB_input" type="array">
+      <obj_property name="ElementShortName">SB_input[127:0]</obj_property>
+      <obj_property name="ObjectShortName">SB_input[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/SB_output" type="array">
+      <obj_property name="ElementShortName">SB_output[127:0]</obj_property>
+      <obj_property name="ObjectShortName">SB_output[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/SH_out" type="array">
+      <obj_property name="ElementShortName">SH_out[127:0]</obj_property>
+      <obj_property name="ObjectShortName">SH_out[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/MC_input" type="array">
+      <obj_property name="ElementShortName">MC_input[127:0]</obj_property>
+      <obj_property name="ObjectShortName">MC_input[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/MC_output_e" type="array">
+      <obj_property name="ElementShortName">MC_output_e[127:0]</obj_property>
+      <obj_property name="ObjectShortName">MC_output_e[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/MC_output_d" type="array">
+      <obj_property name="ElementShortName">MC_output_d[127:0]</obj_property>
+      <obj_property name="ObjectShortName">MC_output_d[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/r_cnt_zero" type="logic">
+      <obj_property name="ElementShortName">r_cnt_zero</obj_property>
+      <obj_property name="ObjectShortName">r_cnt_zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/round_key_d" type="array">
+      <obj_property name="ElementShortName">round_key_d[127:0]</obj_property>
+      <obj_property name="ObjectShortName">round_key_d[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/encrypt" type="logic">
+      <obj_property name="ElementShortName">encrypt</obj_property>
+      <obj_property name="ObjectShortName">encrypt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/data_valid" type="logic">
+      <obj_property name="ElementShortName">data_valid</obj_property>
+      <obj_property name="ObjectShortName">data_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/DUT_Top/round_counter" type="array">
+      <obj_property name="ElementShortName">round_counter[3:0]</obj_property>
+      <obj_property name="ObjectShortName">round_counter[3:0]</obj_property>
+   </wvobject>
+</wave_config>

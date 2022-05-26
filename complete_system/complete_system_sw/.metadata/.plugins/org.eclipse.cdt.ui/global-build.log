@@ -1,0 +1,107 @@
+13:53:34 **** Build of project design_1_wrapper ****
+buildplatform.bat 50337 design_1_wrapper  
+XSDB Server Channel: tcfchan#18
+Building the BSP Library for domain  - standalone_microblaze_0 on processor microblaze_0
+make --no-print-directory seq_libs
+
+"Running Make include in microblaze_0/libsrc/AesCryptoCore_v1_0/src"
+
+make -C microblaze_0/libsrc/AesCryptoCore_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+ "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/gpio_v4_7/src"
+
+make -C microblaze_0/libsrc/gpio_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/intc_v3_12/src"
+
+make -C microblaze_0/libsrc/intc_v3_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/uartlite_v3_5/src"
+
+make -C microblaze_0/libsrc/uartlite_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/AesCryptoCore_v1_0/src"
+
+make -C microblaze_0/libsrc/AesCryptoCore_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling AesCryptoCore..."
+
+AesCryptoCore_selftest.c: In function 'AESCRYPTOCORE_Reg_SelfTest':
+AesCryptoCore_selftest.c:52:62: warning: comparison of integer expressions of different signedness: 'u32' {aka 'long unsigned int'} and 'int' [-Wsign-compare]
+   52 |    if ( AESCRYPTOCORE_mReadReg (baseaddr, read_loop_index*4) != (read_loop_index+1)*READ_WRITE_MUL_FACTOR){
+      |                                                              ^~
+AesCryptoCore_selftest.c:36:6: warning: unused variable 'Index' [-Wunused-variable]
+   36 |  int Index;
+      |      ^~~~~
+mb-ar: creating ../../../lib/libxil.a
+mb-ar: *.o: Invalid argument
+make[2]: *** [Makefile:19: libs] Error 1
+make[1]: *** [Makefile:46: microblaze_0/libsrc/AesCryptoCore_v1_0/src/make.libs] Error 2
+make: *** [Makefile:18: all] Error 2
+Failed to build  the bsp sources for domain - standalone_microblaze_0
+Failed to generate the platform.
+Reason: Failed to build  the bsp sources for domain - standalone_microblaze_0
+    invoked from within
+"::tcf::eval -progress {apply {{msg} {puts $msg}}} {tcf_send_command tcfchan#0 xsdb eval s es {{platform active design_1_wrapper; platform generate }}}"
+    (procedure "::tcf::send_command" line 4)
+    invoked from within
+"tcf send_command $::xsdb::curchan xsdb eval s es [list "platform active $PLATFORM_NAME; platform generate $target"]"
+    invoked from within
+"if { $iswindows == 1 } {    
+
+    set XSDB_PORT [lindex $argv 0]
+    set PLATFORM_NAME [lindex $argv 1]
+    set arglen [llength $argv]
+    set lastind..."
+    (file "C:/Xilinx/Vitis/2020.2\scripts\vitis\util\buildplatform.tcl" line 11)
+13:53:37 **** Build of configuration Debug for project hello_please ****
+make all 
+'Building file: ../src/aes_crypto_drv.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/aes_crypto_drv.o" -IC:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system_sw/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_microblaze_0/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/aes_crypto_drv.d" -MT"src/aes_crypto_drv.o" -o "src/aes_crypto_drv.o" "../src/aes_crypto_drv.c"
+In file included from ../src/aes_crypto_drv.c:9:
+../src/aes_crypto_drv.h:31:10: fatal error: xil_io.h: No such file or directory
+   31 | #include "xil_io.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+make: *** [src/subdir.mk:29: src/aes_crypto_drv.o] Error 1
+13:53:38 **** Build of configuration Debug for project hello_please_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 50337 C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system_sw/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm standalone_microblaze_0 C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system_sw/hello_please_system/Debug/system.bif
+xpfm path is not valid
+    invoked from within
+"::tcf::eval -progress {apply {{msg} {puts $msg}}} {tcf_send_command tcfchan#0 xsdb eval s es {{::scw::generate_bif -xpfm C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system_sw/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm -domains standalone_microblaze_0 -bifpath C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system_sw/hello_please_system/Debug/system.bif}}}"
+    (procedure "::tcf::send_command" line 4)
+    invoked from within
+"tcf send_command $::xsdb::curchan xsdb eval s es [list "::scw::generate_bif $GENERATE_BIF_ARGS"]"
+    (file "C:/Xilinx/Vitis/2020.2\scripts\vitis\util\generate_system_bif.tcl" line 25)
+make: *** [makefile:38: package] Error 1

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/ez/Docs/Studies/Electronic Engineering Degree/Year 3/Year 3 Final Project/Desktop/final_presentation_repo'
+make: Leaving directory `/Users/ez/Docs/Studies/Electronic Engineering Degree/Year 3/Year 3 Final Project/Desktop/final_presentation_repo'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

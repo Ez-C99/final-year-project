@@ -1,0 +1,186 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  4 23:40:49 2021
+# Process ID: 19276
+# Current directory: C:/Users/ezzie/Desktop/final_presentation_repo/complete_system
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22176 C:\Users\ezzie\Desktop\final_presentation_repo\complete_system\complete_system.xpr
+# Log file: C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/vivado.log
+# Journal file: C:/Users/ezzie/Desktop/final_presentation_repo/complete_system\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.xpr
+update_compile_order -fileset sources_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/design_1_wrapper.xsa
+make_wrapper -files [get_files C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/bd/design_1/design_1.bd] -top
+add_files -norecurse c:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.gen/sources_1/bd/design_1/hdl/design_1_wrapper.vhd
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/design_1_wrapper.xsa
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_sw/design_1_wrapper.xsa
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/imports/imports/design_1_wrapper.vhd] -no_script -reset -force -quiet
+remove_files  C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/imports/imports/design_1_wrapper.vhd
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/design_1_wrapper.xsa
+open_project C:/Users/ezzie/Desktop/microblaze_aes_mihai/microblaze_aes_mihai.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/ezzie/Desktop/microblaze_aes_mihai/microblaze_aes_mihai.srcs/sources_1/bd/design_1/design_1.bd}
+save_project_as updated_mihai_testing C:/Users/ezzie/Desktop/updated_mihai_testing -force
+import_files
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M03_AXI] [get_bd_cells AesCryptoCore_v1_0_S_0]
+save_bd_design
+current_project complete_system
+open_bd_design {C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/bd/design_1/design_1.bd}
+current_project updated_mihai_testing
+current_project complete_system
+current_project updated_mihai_testing
+close_project
+open_project C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/bd/design_1/design_1.bd}
+report_ip_status -name ip_status 
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_function_g.v] -no_script -reset -force -quiet
+remove_files  C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_function_g.v
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_mix_columns_mul.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_sub_byte.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_include.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_inv_2.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_inv_4.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_s_box.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_round_constants.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_AlreadyComputed.sv] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_BaseUnit.sv] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_Core.sv] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_Include.sv] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_class_MixColumn.sv] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_env.sv] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_mix_columns_mul.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_sub_byte.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_include.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_inv_2.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_inv_4.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_s_box.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_round_constants.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_AlreadyComputed.sv C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_BaseUnit.sv C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_Core.sv C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_Include.sv C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_class_MixColumn.sv C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_env.sv}
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_top.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_top_mix_column.sv] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_inv_8.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_mult_2.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_mult_4.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_scl_2.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_scl_4.v] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_top.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_top_mix_column.sv C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_inv_8.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_mult_2.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_mult_4.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_scl_2.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/tb/tb_gf_scl_4.v}
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_sbox128.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_mix_columns.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_scl_4.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_key_schedule.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_shift_rows.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_scl_2.v] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_sbox128.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_mix_columns.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_scl_4.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_key_schedule.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_shift_rows.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_scl_2.v}
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_s_box.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_sq_scl_2.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/x_time_square.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/x_times.v] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/aes_s_box.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_sq_scl_2.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/x_time_square.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/x_times.v}
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/select_not_8.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_inv_8.v] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/select_not_8.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_inv_8.v}
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_types.sv] -no_script -reset -force -quiet
+remove_files  C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/ve_AES_types.sv
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/test_program.sv] -no_script -reset -force -quiet
+remove_files  C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/VE_sv/test_program.sv
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_types.v] -no_script -reset -force -quiet
+remove_files  C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/aes_types.v
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_inv_4.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_mul_4.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/mux2_1.v] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_inv_4.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_mul_4.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/utils/mux2_1.v}
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_inv_2.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_mul_2.v] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_mul_scl_2.v] -no_script -reset -force -quiet
+remove_files  {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_inv_2.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_mul_2.v C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/imports/src/gf_s_box/gf_mul_scl_2.v}
+set_property  ip_repo_paths  {c:/Users/ezzie/Desktop/Anilatac-aes_cryptocore-442f83dc28a7/Vivado_project/ip_repo C:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/ip_repo/AesCryptoCore_1.0} [current_project]
+current_project complete_system
+current_project updated_mihai_testing
+update_ip_catalog
+current_project complete_system
+current_project updated_mihai_testing
+open_bd_design {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/bd/design_1/design_1.bd}
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:AesCryptoCore:1.0 AesCryptoCore_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_1/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_1/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/AesCryptoCore_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins AesCryptoCore_0/S00_AXI]
+save_bd_design
+reset_run synth_1
+reset_run design_1_xbar_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/updated_mihai_testing/design_1_wrapper.xsa
+current_project complete_system
+set_property  ip_repo_paths  {c:/Users/ezzie/Desktop/Anilatac-aes_cryptocore-442f83dc28a7/Vivado_project/ip_repo c:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/ip_repo/AesCryptoCore_1.0 C:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/ip_repo} [current_project]
+current_project updated_mihai_testing
+current_project complete_system
+update_ip_catalog
+current_project updated_mihai_testing
+open_bd_design {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/bd/design_1/design_1.bd}
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M03_AXI] [get_bd_cells AesCryptoCore_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:AesCryptoCore:1.0 AesCryptoCore_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_1/clk_out1 (100 MHz)} Clk_slave {/sys_clock (12 MHz)} Clk_xbar {/clk_wiz_1/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/AesCryptoCore_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins AesCryptoCore_0/S00_AXI]
+apply_bd_automation -rule xilinx.com:bd_rule:board -config { Board_Interface {reset ( System Reset ) } Manual_Source {Auto}}  [get_bd_pins rst_sys_clock_12M/ext_reset_in]
+save_bd_design
+reset_run synth_1
+reset_run impl_1
+launch_runs impl_1 -jobs 8
+delete_bd_objs [get_bd_nets rst_sys_clock_12M_peripheral_aresetn] [get_bd_cells rst_sys_clock_12M]
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M03_AXI] [get_bd_cells AesCryptoCore_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:AesCryptoCore:1.0 AesCryptoCore_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_1/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_1/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/AesCryptoCore_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins AesCryptoCore_0/S00_AXI]
+current_project complete_system
+make_wrapper -files [get_files C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/bd/design_1/design_1.bd] -top
+export_ip_user_files -of_objects  [get_files C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/constrs_1/imports/digilent-xdc-master/Arty-S7-50-Master.xdc] -no_script -reset -force -quiet
+remove_files  -fileset constrs_1 C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/constrs_1/imports/digilent-xdc-master/Arty-S7-50-Master.xdc
+add_files -fileset constrs_1 -norecurse {{C:/Users/ezzie/Google Drive/EE.3/Project/Technical Development/Environment files/digilent-xdc-master/Arty-S7-50-Master.xdc}}
+import_files -fileset constrs_1 -force {{C:/Users/ezzie/Google Drive/EE.3/Project/Technical Development/Environment files/digilent-xdc-master/Arty-S7-50-Master.xdc}}
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.runs/impl_1/design_1_wrapper.bit} [get_hw_devices xc7s50_0]
+current_hw_device [get_hw_devices xc7s50_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7s50_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7s50_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7s50_0]
+set_property PROGRAM.FILE {C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.runs/impl_1/design_1_wrapper.bit} [get_hw_devices xc7s50_0]
+program_hw_devices [get_hw_devices xc7s50_0]
+refresh_hw_device [lindex [get_hw_devices xc7s50_0] 0]
+refresh_hw_device [lindex [get_hw_devices xc7s50_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7s50_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7s50_0]
+set_property PROGRAM.FILE {C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.runs/impl_1/design_1_wrapper.bit} [get_hw_devices xc7s50_0]
+program_hw_devices [get_hw_devices xc7s50_0]
+refresh_hw_device [lindex [get_hw_devices xc7s50_0] 0]
+current_project updated_mihai_testing
+save_bd_design
+close_project
+make_wrapper -files [get_files C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/bd/design_1/design_1.bd] -top
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/design_1_wrapper.xsa
+set_property  ip_repo_paths  {c:/Users/ezzie/Desktop/Anilatac-aes_cryptocore-442f83dc28a7/Vivado_project/ip_repo c:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/ip_repo/AesCryptoCore_1.0 c:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/ip_repo C:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/digiLent_test/ip_repo} [current_project]
+update_ip_catalog
+open_project C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/bd/design_1/design_1.bd}
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M03_AXI] [get_bd_cells AesCryptoCore_0]
+set_property  ip_repo_paths  {c:/Users/ezzie/Desktop/Anilatac-aes_cryptocore-442f83dc28a7/Vivado_project/ip_repo c:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/ip_repo/AesCryptoCore_1.0 C:/Users/ezzie/Desktop/MOlaru-aes_cryptocore-b75a348d36df/digiLent_test/ip_repo} [current_project]
+current_project complete_system
+current_project updated_mihai_testing
+update_ip_catalog
+open_bd_design {C:/Users/ezzie/Desktop/updated_mihai_testing/updated_mihai_testing.srcs/sources_1/bd/design_1/design_1.bd}
+save_bd_design
+close_project
+make_wrapper -files [get_files C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/bd/design_1/design_1.bd] -top
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper.xsa
+open_bd_design {C:/Users/ezzie/Desktop/final_presentation_repo/complete_system/complete_system.srcs/sources_1/bd/design_1/design_1.bd}

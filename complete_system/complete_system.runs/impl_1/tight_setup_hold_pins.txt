@@ -1,0 +1,16 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |         design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[107]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |          design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[67]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |           design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[3]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |          design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[65]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |          design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[11]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |         design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[105]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |          design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[69]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |          design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[68]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |          design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[33]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |         design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[109]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |         design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[108]/D|
+| clk_out1_design_1_clk_wiz_1_0 |clk_out1_design_1_clk_wiz_1_0 |           design_1_i/AesCryptoCore_0/inst/AesCryptoCore_v1_0_S00_AXI_inst/UIP/data_after_round_e_reg[9]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+

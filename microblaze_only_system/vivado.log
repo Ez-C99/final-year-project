@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May 20 13:33:13 2021
+# Process ID: 8064
+# Current directory: C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9412 C:\Users\ezzie\Desktop\final_presentation_repo\microblaze_only_system\microblaze_only_system.xpr
+# Log file: C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system/vivado.log
+# Journal file: C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system/microblaze_only_system.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/ezzie/Desktop/final presentation repo/microblaze_only_system' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:40 ; elapsed = 00:00:27 . Memory (MB): peak = 1126.594 ; gain = 0.289
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system/microblaze_only_system.srcs/sources_1/bd/design_1/design_1.bd}
+Reading block design file <C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system/microblaze_only_system.srcs/sources_1/bd/design_1/design_1.bd>...
+Adding component instance block -- xilinx.com:ip:microblaze:11.0 - microblaze_0
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - dlmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - ilmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - dlmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - ilmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:blk_mem_gen:8.4 - lmb_bram
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - microblaze_0_axi_periph
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_intc:4.1 - microblaze_0_axi_intc
+Adding component instance block -- xilinx.com:ip:xlconcat:2.1 - microblaze_0_xlconcat
+Adding component instance block -- xilinx.com:ip:mdm:3.2 - mdm_1
+Adding component instance block -- xilinx.com:ip:clk_wiz:6.0 - clk_wiz_1
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_clk_wiz_1_100M
+Adding component instance block -- xilinx.com:ip:axi_uartlite:2.0 - axi_uartlite_0
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_0
+Successfully read diagram <design_1> from block design file <C:/Users/ezzie/Desktop/final_presentation_repo/microblaze_only_system/microblaze_only_system.srcs/sources_1/bd/design_1/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:15 ; elapsed = 00:00:10 . Memory (MB): peak = 1326.082 ; gain = 144.195
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu May 20 14:56:33 2021...

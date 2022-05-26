@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May 20 13:33:18 2021
+# Process ID: 9972
+# Current directory: C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2440 C:\Users\ezzie\Desktop\final_presentation_repo\testbench_simulations\testbench_simulations.xpr
+# Log file: C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/vivado.log
+# Journal file: C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.xpr
+launch_simulation
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav.wcfg
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav1.wcfg
+source top.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav.wcfg
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav1.wcfg
+source top.tcl
+close_sim
+launch_simulation
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+reset_run synth_1
+launch_simulation
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav.wcfg
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav1.wcfg
+source top.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav.wcfg
+open_wave_config C:/Users/ezzie/Desktop/final_presentation_repo/testbench_simulations/testbench_simulations.srcs/sim_1/imports/test2/top_behav1.wcfg
+source top.tcl
+close_sim

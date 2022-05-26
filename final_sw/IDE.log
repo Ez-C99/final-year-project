@@ -1,0 +1,102 @@
+03:16:48 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\ezzie\Desktop\final_presentation_repo\final_sw\temp_xsdb_launch_script.tcl
+03:16:48 INFO  : Registering command handlers for Vitis TCF services
+03:16:51 INFO  : XSCT server has started successfully.
+03:16:51 INFO  : plnx-install-location is set to ''
+03:16:52 INFO  : Successfully done setting XSCT server connection channel  
+03:16:52 INFO  : Platform repository initialization has completed.
+03:16:58 INFO  : Successfully done setting workspace for the tool. 
+03:16:58 INFO  : Successfully done query RDI_DATADIR 
+03:17:59 INFO  : Result from executing command 'getProjects': design_1_wrapper
+03:17:59 INFO  : Result from executing command 'getPlatforms': 
+03:17:59 WARN  : An unexpected exception occurred in the module 'platform project logging'
+03:17:59 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+03:18:01 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+03:19:30 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+03:19:30 ERROR : Failed to openhw "C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa"
+Reason: ERROR: [Common 17-39] 'hsi::open_hw_design' failed due to earlier errors.
+
+03:19:30 ERROR : Failed to update application flags from BSP for 'hello_world'. Reason: null
+java.lang.NullPointerException
+	at com.xilinx.sdx.sw.internal.SDxSwPlatform.<init>(SDxSwPlatform.java:305)
+	at com.xilinx.sdx.sw.internal.SDxSwPlatform.create(SDxSwPlatform.java:214)
+	at com.xilinx.sdx.sdk.core.util.SdkPlatformHelper.getSwPlatform(SdkPlatformHelper.java:61)
+	at com.xilinx.sdx.sdk.core.build.SdkMakefileGenerationListener.getSwPlatform(SdkMakefileGenerationListener.java:160)
+	at com.xilinx.sdx.sdk.core.build.SdkMakefileGenerationListener.syncAppFlags(SdkMakefileGenerationListener.java:78)
+	at com.xilinx.sdx.sdk.core.build.SdkMakefileGenerationListener.preMakefileGeneration(SdkMakefileGenerationListener.java:48)
+	at com.xilinx.sdk.managedbuilder.XilinxGnuMakefileGenerator.notifyPreMakefileGenerationListeners(XilinxGnuMakefileGenerator.java:91)
+	at com.xilinx.sdk.managedbuilder.XilinxGnuMakefileGenerator.regenerateMakefiles(XilinxGnuMakefileGenerator.java:75)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performMakefileGeneration(CommonBuilder.java:1006)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:873)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:748)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:513)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:459)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+03:19:31 ERROR : Failed to compute checksum of hardware specification file used by project 'hello_world'
+03:19:31 ERROR : Failed to openhw "C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa"
+Reason: ERROR: [Common 17-39] 'hsi::open_hw_design' failed due to earlier errors.
+
+03:19:31 ERROR : Failed to openhw "C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa"
+Reason: ERROR: [Common 17-39] 'hsi::open_hw_design' failed due to earlier errors.
+
+03:19:31 ERROR : Failed to openhw "C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa"
+Reason: ERROR: [Common 17-39] 'hsi::open_hw_design' failed due to earlier errors.
+
+03:25:01 ERROR : Error occurred while generating bsp sources for the domain 'standalone_microblaze_0'.
+03:34:56 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+03:34:56 ERROR : Failed to openhw "C:/Users/ezzie/Desktop/final_presentation_repo/final_sw/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa"
+Reason: ERROR: [Common 17-39] 'hsi::open_hw_design' failed due to earlier errors.
+
+03:34:56 ERROR : Failed to update application flags from BSP for 'hello_world'. Reason: null
+java.lang.NullPointerException
+	at com.xilinx.sdx.sw.internal.SDxSwPlatform.<init>(SDxSwPlatform.java:305)
+	at com.xilinx.sdx.sw.internal.SDxSwPlatform.create(SDxSwPlatform.java:214)
+	at com.xilinx.sdx.sdk.core.util.SdkPlatformHelper.getSwPlatform(SdkPlatformHelper.java:61)
+	at com.xilinx.sdx.sdk.core.build.SdkMakefileGenerationListener.getSwPlatform(SdkMakefileGenerationListener.java:160)
+	at com.xilinx.sdx.sdk.core.build.SdkMakefileGenerationListener.syncAppFlags(SdkMakefileGenerationListener.java:78)
+	at com.xilinx.sdx.sdk.core.build.SdkMakefileGenerationListener.preMakefileGeneration(SdkMakefileGenerationListener.java:48)
+	at com.xilinx.sdk.managedbuilder.XilinxGnuMakefileGenerator.notifyPreMakefileGenerationListeners(XilinxGnuMakefileGenerator.java:91)
+	at com.xilinx.sdk.managedbuilder.XilinxGnuMakefileGenerator.generateMakefiles(XilinxGnuMakefileGenerator.java:40)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performMakefileGeneration(CommonBuilder.java:1008)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:873)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:748)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:510)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:459)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+13:27:50 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\ezzie\Desktop\final_presentation_repo\final_sw\temp_xsdb_launch_script.tcl
+13:27:52 INFO  : XSCT server has started successfully.
+13:27:52 INFO  : Successfully done setting XSCT server connection channel  
+13:27:52 INFO  : plnx-install-location is set to ''
+13:27:52 INFO  : Successfully done setting workspace for the tool. 
+13:27:57 ERROR : Error encountered while initializing user repository paths
+Reason: No Platforms Found.
+
+
+13:27:57 INFO  : Platform repository initialization has completed.
+13:27:57 INFO  : Successfully done query RDI_DATADIR 
+13:27:57 INFO  : Registering command handlers for Vitis TCF services
